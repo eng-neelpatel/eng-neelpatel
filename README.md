@@ -11,7 +11,7 @@ I'm a passionate software engineering student based in Darwin, Australia, with a
 - Currently working on AI-powered platforms and mobile applications
 - Learning Data Structures & Algorithms, System Design, and Cloud technologies
 - Looking to collaborate on open-source projects and innovative startups
-- Goal: Land a role at a top tech company (Microsoft, Google, Apple)
+- Goal: Land a role at a top tech company
 
 ---
 
